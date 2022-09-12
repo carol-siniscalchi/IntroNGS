@@ -16,4 +16,12 @@ The lectures are in Portuguese. Live lectures were not recorded.
 
 ## Course tutorials
 
-Please see the wiki
+The course has four computer practices, all available in the course wiki and listed below. The files needed for each practice are in specific folders listed under Practices.
+
+[Practice 1](https://github.com/carol-siniscalchi/IntroNGS/wiki/Practice-1) – Introduction to command line and file types
+
+[Practice 2](https://github.com/carol-siniscalchi/IntroNGS/wiki/Practice-2) – Target capture data assembly
+
+Practice 3
+
+Practice 4
